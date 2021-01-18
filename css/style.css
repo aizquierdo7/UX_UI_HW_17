@@ -17,11 +17,11 @@ header li {
 header p {
   display: inline-block;
 }
-heroImg {
+.heroImg {
   background-color: #EBEBEB;
   padding: 100px 15px;
 }
-content {
+.content {
   max-width: 300px;
   margin: 0 auto;
   padding: 50px;
